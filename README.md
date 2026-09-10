@@ -1,6 +1,6 @@
 # To-Do List Application
 
-A To-Do List application built as part of The Odin Project assignment. This project allows users to add, modify, and delete tasks and projects, with features to filter tasks by date, priority, and project.
+A To-Do List application. This project allows users to add, modify, and delete tasks and projects, with features to filter tasks by date, priority, and project.
 
 ## Table of Contents
 
